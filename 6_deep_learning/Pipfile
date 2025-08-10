@@ -10,9 +10,6 @@ scipy = "*"
 python-dotenv = "*"
 
 [dev-packages]
-tensorflow-macos = "*"
-tensorflow-metal = "*"
-ipython = "*"
 matplotlib = "*"
 ipykernel = "*"
 
